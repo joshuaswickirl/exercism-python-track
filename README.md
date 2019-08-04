@@ -9,3 +9,4 @@ Exercism's Python Track
 2. [Two Fer](/two-fer)
 3. [High Scores](/high-scores)
 4. [Matrix](/matrix)
+5. [Hamming](/hamming)
