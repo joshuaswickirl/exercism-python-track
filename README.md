@@ -10,3 +10,4 @@ Exercism's Python Track
 3. [High Scores](/high-scores)
 4. [Matrix](/matrix)
 5. [Hamming](/hamming)
+6. [Raindrops](/raindrops)
