@@ -1,13 +1,11 @@
 def is_isogram(string):
     chars_used = set()
-    is_isogram = True
 
     for char in string.lower():
         if char in chars_used:
-            is_isogram = False
-            break
+            return False
         else:
-            if char not in [' ','-']:
+            if char.isalpha():
                 chars_used.add(char)
 
-    return is_isogram
+    return True
